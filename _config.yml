@@ -1,0 +1,16 @@
+# Site settings
+title: PHP Course
+email: xandr.cherepanov@gmail.com
+description: "Курс <strong>Web Master</strong> посвящен веб-разработке. На сайте будут размещены презентационные материалы и конспекты занятий."
+baseurl: "/php-course"
+url: ""
+twitter_username: 
+github_username: 
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+
+# collections:
+#   presentations:
+#     output: true
